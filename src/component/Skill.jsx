@@ -28,7 +28,9 @@ const Skill = () => {
             <div className="w-72 mx-auto lg:mx-0 mt-12 lg:mt-0" data-aos="slide-up">
               <p className="text-2xl font-bold mb-6">Development</p>
               <div>
+                <p className="text-xl lg:text-lg mt-2">Laravel</p>
                 <p className="text-xl lg:text-lg mt-2">React JS</p>
+                <p className="text-xl lg:text-lg mt-2">Bootstrap</p>
                 <p className="text-xl lg:text-lg mt-2">Tailwind CSS</p>
               </div>
             </div>
